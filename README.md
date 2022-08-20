@@ -130,5 +130,5 @@ This course will give you a full introduction to all of the core concepts in pyt
 * ⌨️ (4:12:37) Inheritance
 * ⌨️ (4:20:43) Python Interpreter
 
-Here is the Youtube video you can watch to learn Python in 4 hours:
+Here is the Youtube video you can watch to learn Python in 4 hours:youtube:
 
