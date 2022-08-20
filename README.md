@@ -24,7 +24,7 @@ I have purposefully chosen as few resources as possible but still with some opti
 
  <h2>Now let's introduce 10 of the best Python training sites👊🏼👨‍💻</h2>
  
-### 1- Google
+### 1- Google💣
 
 If you don’t know, Google also has an excellent set of Python tutorials for beginners, known as Google’s Python class. This is a free class for people with a little bit of programming experience and who want to learn Python. The course includes written tutorials, lecture videos, and lots of code exercises to practice Python coding.
 
@@ -34,7 +34,7 @@ Google itself uses Python for a lot of its projects. And, these materials are ge
 
 The best part of this material is that lecture videos are available on Youtube. Hence you don’t need any other account. It also teaches you to set up your own Python development environment, which does produce initial challenge but great for the long run.
 
-### 2- Udemy
+### 2- Udemy🎈
 
 Udemy is one of the popular online course platforms, which probably has the biggest collection of free online courses on earth. I like Udemy because you can virtually find a course on anything you want to learn and that too for free.
 
@@ -42,7 +42,7 @@ Unlike CodeCademy, you don’t need any subscription, you just need to create a 
 
 But, there are also good quality Python courses that are entirely free like Introduction To Python Programming and Python for Beginners. You can join them to learn Python 3. Here are some of my favorite free classes to learn Python in depth.
 
-### 3- CodeCademy
+### 3- CodeCademy💡
 
 If you like interactive learning, then there is no better place than CodeCademy. They first teach you theory in as few words as possible and then ask you to write code online using that concept. The best thing is you don’t need to do any setup like installing Python on your machine.
 
@@ -52,7 +52,7 @@ I have learned JavaScript, Java, Python, and Linux using their interactive platf
 
 Currently, their Learn Python 2 course is free, and Python 3 course is only available for paid members. If you can afford and appreciate CodeCademy, by all means, join Codecademy PRO, but if you can’t just start with their Python 2 course, it’s perfect for beginners having no coding experience.
 
-### 4- Educative
+### 4- Educative💻
 
 This is another website to learn Python coding for FREE in 2022. If you don’t know Educative is a text-based interactive platform that allows you to learn and code from your browser.
 
@@ -62,7 +62,7 @@ If you want to learn Python in 2022 then this course is the perfect place to sta
 
 Fun quizzes and coding challenges will accompany you along the way to help enforce all the concepts covered in the course.
 
-### 5- Coursera
+### 5- Coursera🔗
 
 If you want to learn from the world’s leading universities without paying a single cent then Coursera is the best website to go. It offers online courses taught at reputed universities like Stanford, INSEAD, NUS (National University of Singapore), and many more.
 
