@@ -1,7 +1,6 @@
 # Top 10 Websites to Learn Python programming for FREE in 2022👨‍💻👊
 
-
-![image](https://user-images.githubusercontent.com/93611871/185761500-e3d00e77-f755-4d26-8948-e512849231df.jpg =250x250)
+<img src="https://user-images.githubusercontent.com/93611871/185761500-e3d00e77-f755-4d26-8948-e512849231df.jpg" width="100" height="100">
 
  <h2>About Project👨‍💻👊🏼</h2>
  
