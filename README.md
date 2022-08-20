@@ -132,3 +132,7 @@ This course will give you a full introduction to all of the core concepts in pyt
 
 Here is the Youtube video you can watch to learn Python in 4 hours💻👨‍💻
 
+### 8- Learn Python in 1 hour (Javarevisited Youtube channel) 🎊
+We also have a Python crash course on our Youtube channel which you can watch to learn Python in 1-hour. This is a very compact, practical, and hands-on guide to Python which anyone can follow.
+
+It’s ideal for people with no programming experience, all you need is 1 hour to watch that video and try out things as instructed.
