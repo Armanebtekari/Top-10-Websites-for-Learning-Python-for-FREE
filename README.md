@@ -24,7 +24,7 @@ I have purposefully chosen as few resources as possible but still with some opti
 
  <h2>Now let's introduce 10 of the best Python training sites👊🏼👨‍💻</h2>
  
-### 1-Google
+### 1- Google
 
 If you don’t know, Google also has an excellent set of Python tutorials for beginners, known as Google’s Python class. This is a free class for people with a little bit of programming experience and who want to learn Python. The course includes written tutorials, lecture videos, and lots of code exercises to practice Python coding.
 
