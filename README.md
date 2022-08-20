@@ -72,10 +72,10 @@ This course will teach you Python 3 from ground zero. You don’t need any prior
 
 The course is also part of the Python for Everybody Specialization on Coursera, which contains 4 more classes to learn Python in-depth:
 
- * 1. Python Data Structure
- * 2. Using Python on Access Web Data
- * 3. Using Database with Python
- * 4. Capstone Project: Retrieving, Processing, and Visualizing Data with Python
+ * 1- Python Data Structure
+ * 2- Using Python on Access Web Data
+ * 3- Using Database with Python
+ * 4- Capstone Project: Retrieving, Processing, and Visualizing Data with Python
  
 All courses are free-to-audit, which means you can join them free and learn. But, you cannot participate in assignments and quizzes and won’t get any certification until you pay.
 
