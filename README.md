@@ -62,7 +62,7 @@ If you want to learn Python in 2022 then this course is the perfect place to sta
 
 Fun quizzes and coding challenges will accompany you along the way to help enforce all the concepts covered in the course.
 
-### 5- Coursera🔗
+### 5- Coursera✨
 
 If you want to learn from the world’s leading universities without paying a single cent then Coursera is the best website to go. It offers online courses taught at reputed universities like Stanford, INSEAD, NUS (National University of Singapore), and many more.
 
@@ -79,7 +79,56 @@ The course is also part of the Python for Everybody Specialization on Coursera, 
  
 All courses are free-to-audit, which means you can join them free and learn. But, you cannot participate in assignments and quizzes and won’t get any certification until you pay.
 
+### 6- Microsoft [edX] 🥇
+If Google has a Python class, then how come Microsoft can be left behind? Well, it also has a free Python course on Edx, another popular online portal for free education.
 
+This course is called Introduction to Python: Absolute Beginner, which is a free course to learn Python, taught by Eric Camplin, Senior Content Developer.
 
+This course will teach you Python in Jupyter Notebooks, an online browser-based coding editor for Python, which means you don’t need to install Python. It’s a 5-week course with 3 to 4 hours of study every week.
 
+This course is also part of the Microsoft Professional Program in Entry-Level Software Development, which is also free. You only need to pay when you need a certification. Something which you can add to your resume or LinkedIn profile as shown below:
+
+### 7- FreeCodeCamp [Youtube] 🔥
+This is another awesome website to learn tech skills for FREE. They also have an amazing Youtube channel where you will find a lot of free online courses and this free Python course is one of them.
+
+This course will give you a full introduction to all of the core concepts in python. Follow along with the videos and you’ll be a python programmer in no time! You can watch it on Youtube for free, here is a table of content
+
+###⭐️ Contents ⭐
+⌨️ (0:00) Introduction
+⌨️ (1:45) Installing Python & PyCharm
+⌨️ (6:40) Setup & Hello World
+⌨️ (10:23) Drawing a Shape
+⌨️ (15:06) Variables & Data Types
+⌨️ (27:03) Working With Strings
+⌨️ (38:18) Working With Numbers
+⌨️ (48:26) Getting Input From Users
+⌨️ (52:37) Building a Basic Calculator
+⌨️ (58:27) Mad Libs Game
+⌨️ (1:03:10) Lists
+⌨️ (1:10:44) List Functions
+⌨️ (1:18:57) Tuples
+⌨️ (1:24:15) Functions
+⌨️ (1:34:11) Return Statement
+⌨️ (1:40:06) If Statements
+⌨️ (1:54:07) If Statements & Comparisons
+⌨️ (2:00:37) Building a better Calculator
+⌨️ (2:07:17) Dictionaries
+⌨️ (2:14:13) While Loop
+⌨️ (2:20:21) Building a Guessing Game
+⌨️ (2:32:44) For Loops
+⌨️ (2:41:20) Exponent Function
+⌨️ (2:47:13) 2D Lists & Nested Loops
+⌨️ (2:52:41) Building a Translator
+⌨️ (3:00:18) Comments
+⌨️ (3:04:17) Try / Except
+⌨️ (3:12:41) Reading Files
+⌨️ (3:21:26) Writing to Files
+⌨️ (3:28:13) Modules & Pip
+⌨️ (3:43:56) Classes & Objects
+⌨️ (3:57:37) Building a Multiple Choice Quiz
+⌨️ (4:08:28) Object Functions
+⌨️ (4:12:37) Inheritance
+⌨️ (4:20:43) Python Interpreter
+
+Here is the Youtube video you can watch to learn Python in 4 hours:
 
