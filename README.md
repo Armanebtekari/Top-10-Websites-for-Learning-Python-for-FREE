@@ -2,7 +2,7 @@
 
  <a>About Project👨‍💻👊🏼<a>
  
-Hello guys, if you want to learn Python in 2022 and looking for some Free Websites and free Python tutorials then you have come to the right place. Earlier, I shared the best Python programming courses and Python projects which you can do to learn Python.😊👨‍💻
+<p> Hello guys, if you want to learn Python in 2022 and looking for some Free Websites and free Python tutorials then you have come to the right place. Earlier, I shared the best Python programming courses and Python projects which you can do to learn Python.😊👨‍💻</p>
 
   <a>Getting Start👨‍💻🏼👏<a>
  
