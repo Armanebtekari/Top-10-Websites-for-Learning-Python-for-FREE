@@ -16,3 +16,12 @@ Today, I will share popular websites to learn Python coding for free and free Py
 
 But before that, if you are here then let me first congratulate you for making the right decision to learn Python programming language, the king of programming languages.🎉
 
+Top 10 Websites to Learn Python Programming for Beginners
+Here you will find some of the best places to learn Python for free, I have handpicked these resources with a couple of Python experts.
+
+I have purposefully chosen as few resources as possible but still with some options. Just in case you have any other useful Python websites which teach Python development for free then feel free to suggest them.🙏🙌
+
+
+ <h2>Now let's introduce 10 of the best Python training sites👊🏼👨‍💻</h2>
+ 
+ 
