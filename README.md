@@ -160,9 +160,9 @@ You will also learn various simple types as well as collection types, define log
 
 ## Contact
 
-twitter - [@armanebtekari](https://twitter.com/armanebtekari)
-gmail - armanebtekari7@gmail.com
-linkedin - https://www.linkedin.com/in/arman-ebtekari-794aa9227/
+* twitter - [@armanebtekari](https://twitter.com/armanebtekari)
+* gmail - armanebtekari7@gmail.com
+* linkedin - https://www.linkedin.com/in/arman-ebtekari-794aa9227/
 
 
 #Coding By Arman❤
