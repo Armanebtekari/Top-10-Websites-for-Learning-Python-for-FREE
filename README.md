@@ -136,3 +136,15 @@ Here is the Youtube video you can watch to learn Python in 4 hours💻👨‍�
 We also have a Python crash course on our Youtube channel which you can watch to learn Python in 1-hour. This is a very compact, practical, and hands-on guide to Python which anyone can follow.
 
 It’s ideal for people with no programming experience, all you need is 1 hour to watch that video and try out things as instructed.
+
+
+### 9- Python for Data Science and AI [Coursera]👨‍🏫
+This is another course that is focused on Data Science and Artificial Intelligence using Python. It’s an introductory course and will kickstart your learning of Python for data science, as well as programming in general.
+
+This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours. It’s offered by IBM Developer, one of the oldest and most reputed software companies around the World.
+
+This course can be applied to multiple Specializations or Professional Certificates programs. Completing this course will count towards your learning in any of the following programs:
+
+* IBM Data Science Professional Certificate
+* IBM Applied AI Professional Certificate
+* Applied Data Science Specialization
