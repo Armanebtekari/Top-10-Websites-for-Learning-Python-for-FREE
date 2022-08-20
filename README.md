@@ -1,4 +1,4 @@
-# Top 10 Websites to Learn Python Programming for FREE👨‍💻👊🏼
+# Top 10 Websites for Learning Python for FREE👨‍💻👊🏼
 
  <h2>About Project👨‍💻👊🏼</h2>
  
