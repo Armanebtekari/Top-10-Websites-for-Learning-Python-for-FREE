@@ -148,3 +148,11 @@ This course can be applied to multiple Specializations or Professional Certifica
 * IBM Data Science Professional Certificate
 * IBM Applied AI Professional Certificate
 * Applied Data Science Specialization
+
+### 10- Python Core and Advanced [Free Udemy Course]👨‍💻
+This is one of the best free courses from Udemy with full of practical examples for each and every concept. And the instructor made it very straight and simple to understand and have a very good command of the language. I really enjoyed doing this course
+
+You will first learn how to install Python Virtual Machine and the Eclipse IDE (PyDev) and then execute your first python program.
+
+You will also learn various simple types as well as collection types, define logic using conditional statements, looping constructs, how to use the different types of operators, check the input and output functions in action and pass Command line arguments
+
