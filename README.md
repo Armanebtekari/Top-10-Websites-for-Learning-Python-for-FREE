@@ -6,6 +6,9 @@
  
 Hello guys, if you want to learn Python in 2022 and looking for some Free Websites and free Python tutorials then you have come to the right place. Earlier, I shared the best Python programming courses and Python projects which you can do to learn Python.😊👨‍💻
 
+### 📄 License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
  <h2>About Python🤔</h2>
 
 Python is currently the world’s #1 programming language and its popularity is growing every passing day, thanks to Data Science and Machine learning and awesome Python libraries like Pandas, NumPy, and TensorFlow.
